@@ -1,9 +1,9 @@
 
-function add(){
+function output(){
     var a=document.getElementById("name").value;
     var b=document.getElementById("email").value;
     var c=document.getElementById("message").value;
-    alert(a+" " + b+" "+ c );
+    prompt("Hi " + a + ","+" we have received your message. Thank you for reaching out to us.");
     
     }
     
