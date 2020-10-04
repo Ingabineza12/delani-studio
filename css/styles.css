@@ -54,7 +54,6 @@ h3{
 .icons{
     display:flex;
     justify-content: space-around;
-    justify-content: space-between;
     margin-left:10%;
     margin-right: 10%;
 }
@@ -67,7 +66,6 @@ h5{
 .images1, .images2{
     display:flex;
     justify-content: space-around;
-    justify-content: space-between;
     margin-top: 10px;
     margin-right: 10%;
     margin-left:10%;
@@ -119,7 +117,7 @@ h4{
     margin-left: 10%;
     margin-right: 10%;
 }
-.copyright{
+.endings{
     text-align: center;
     font-family: Times New Roman;
     text-transform: uppercase;
@@ -141,6 +139,4 @@ h4{
     margin: 0%; 
     font-size: 25px;
     font-weight: bolder;
-    
-    /* margin-right: 30%; */
 }
