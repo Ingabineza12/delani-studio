@@ -17,7 +17,7 @@ a github account to access it
 and now you can clone it to your local machine and run it in your editor
 
 ## link to live page 
-
+https://ingabineza12.github.io/delani-studio/
 
 ## copyright and licence
 
