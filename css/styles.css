@@ -73,7 +73,7 @@ h5{
     margin-left:10%;
 }
 footer{
-    background-image: url('../img//c_image.jpg');
+    background-image: url('../img/c_image.jpg');
     height: 420px;
     width:100%;
     background-size: cover;
@@ -124,7 +124,7 @@ h4{
     font-family: Times New Roman;
     text-transform: uppercase;
 }
-.walrus-showing{
+.showing{
     display: none;
 }
 
