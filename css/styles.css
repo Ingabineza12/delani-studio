@@ -1,10 +1,12 @@
-header{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://res.cloudinary.com/drrezzrvd/image/upload/v1564060081/1_snxwal.jpg');
+.image_header{
+    background-image:url('../img/h_img.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     color:white;
-    height: 550px;
+    height: 500px;
     width:100%;
+    background-color: transparent;
 
 }
 .image_header{
@@ -32,9 +34,14 @@ header{
 
 }
 .row1{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://res.cloudinary.com/drrezzrvd/image/upload/v1564060089/2_wgioox.jpg');
+    background-image:url('../img/s_image.jpg');
     height: 300px;
     width:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:white;
+    background-color: transparent;
 }
 #service{
     text-align:center;
@@ -66,11 +73,16 @@ h5{
     margin-left:10%;
 }
 footer{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.7)),url('https://res.cloudinary.com/drrezzrvd/image/upload/v1564073666/3_grjh3h.jpg');
+    background-image: url('../img//c_image.jpg');
     height: 420px;
     width:100%;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
+    color:beige;
+    background-color: transparent;
 }
+
 h6{
     color: white;
     text-align: center;
