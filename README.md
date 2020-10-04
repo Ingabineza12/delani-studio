@@ -9,7 +9,7 @@ Contributors are always welcome!
 This is a delani studio webpage which gives description about the delani studion, what they do, their services, and photos of some of the works that they have done so far and also included a message box incase you want to reach out to them
 
 ## language used
-HTML , CSS && Jaavacript
+HTML , CSS && JAVASCRIPT
 
 ## Setup/installation requirements
 you need an internet
