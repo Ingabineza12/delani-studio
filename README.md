@@ -19,8 +19,10 @@ and now you can clone it to your local machine and run it in your editor
 ## link to live page 
 https://ingabineza12.github.io/delani-studio/
 
-## copyright and licence
+## licence
 
 This project is licenced under MIT License
+
+## copyright
 
 Copyright (c) 2020 Ingabineza12
